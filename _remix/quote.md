@@ -1,6 +1,4 @@
-
 ---
-
 layout: single
 title: Please let it be true
 header: no
