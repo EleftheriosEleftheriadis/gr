@@ -1,5 +1,6 @@
 
 ---
+
 layout: single
 title: Please let it be true
 header: no
@@ -8,6 +9,7 @@ categories:
 tags:
   - Deep truth
   - motion
+  
 ---
 
 Διαδραστικό παράδειγμα των συναισθημάτων μου.
