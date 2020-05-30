@@ -5,9 +5,8 @@ header: no
 categories:
   - forms
 tags:
-  - camera
+  - shell
   - motion
-  - color
 ---
 
 Διαδραστικό παράδειγμα shell.
